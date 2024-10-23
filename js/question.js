@@ -146,4 +146,11 @@ const quiz = [
         img: 'img/cyprus.png',
         topic:'geography',
     },
+
+    {
+        q:'Which of these is an assignment operator?',
+        options: ['=','==', '+', '/'],
+        answer: 1,
+        topic:'programming',
+    },
 ]

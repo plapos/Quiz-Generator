@@ -12,4 +12,5 @@ const quiz = [
         answer: 1,
         topic:'programming',
     },
+    
 ]

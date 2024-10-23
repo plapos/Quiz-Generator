@@ -9,7 +9,7 @@ const quiz = [
     {
         q:'Which of these is an assignment operator?',
         options: ['=','==', '+', '/'],
-        answer: 1,
+        answer: 0,
         topic:'programming',
     },
     

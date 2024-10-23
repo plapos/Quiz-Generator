@@ -2,7 +2,7 @@ const quiz = [
     {
         q:'How do you write an if statement?',
         options: ['if ()','als ()', 'else ()', 'else if ()'],
-        answer: 1,
+        answer: 0,
         //img: 'img/square.png',
         topic: 'programming'
     },

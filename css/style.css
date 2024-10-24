@@ -3,7 +3,7 @@
 body {
     margin: 0;
     font-size: 16px;
-    background-color: #17A4CB;
+    background-color: #EEEEEE;
     font-family: 'Montserrat', sans-serif;
     font-weight: 400;
 }
@@ -78,7 +78,7 @@ body {
 }
 
 .btn {
-    background-color: #17A4CB;
+    background-color: #e41d0e;
     padding: 15px 45px;
     border-radius: 10px;
     color: white;
@@ -89,7 +89,7 @@ body {
 }
 
 .exit-btn {
- background-color: red;
+ background-color: #CCCCCC;
  float: right;
 }
 .exit-btn:hover {
@@ -147,7 +147,7 @@ body {
     margin-bottom: 10px;
     border-radius: 5px;
     cursor: pointer;
-    text-transform: capitalize;
+    /* text-transform: capitalize; */
     opacity: 0;
     animation: fadeIn 0.3s ease forwards;
     position: relative;
@@ -182,7 +182,7 @@ body {
     top: 0;
     height: 100%;
     width: 100%;
-    background-color: red;
+    background-color: #e41d0e;
     z-index: -1;
     animation: slideInLeft .5s ease forwards;
 }
@@ -235,7 +235,7 @@ body {
 }
 
 .quiz-box .answers-indicator div.wrong {
-    background-color: red;
+    background-color: #e41d0e;
     background-image: url("../img/wrong.png");
     background-size: 50%;
     background-repeat: no-repeat;

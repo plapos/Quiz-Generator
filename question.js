@@ -314,4 +314,103 @@ const quiz = [
         answer: 2,
         topic:"programming",
     },
+    {
+        q:"What type of topology is this?",
+        options: ["Star","Bus", "Mesh", "Circle"],
+        answer: 2,
+        img: "img/mesh.png",
+        topic: "programming"
+    },
+    {
+        q:"What is the arrangement of the elements of a communication network?",
+        options: ["Network Topology", "Bus Topology", "Metropolitan Area Network", "Computer Network"],
+        answer: 0,
+        topic: "programming"
+    },
+    {
+        q:"What type of network is spanned inside a building and operated under single administrative system?",
+        options: ["Point-to-Point", "Local Area Network", "Wide Area Network", "Metropolitan Area Network"],
+        answer: 1,
+        topic: "programming"
+    },
+    {
+        q:"What type of network covers a wide area which may span across provinces and even a whole country?",
+        options: ["Personal Area Network", "Local Area Network", "Wide Area Network", "Metropolitan Area Network"],
+        answer: 2,
+        topic: "programming"
+    },
+    {
+        q:"Where does the computers in Star Topology are connected?",
+        options: ["Hub", "Cable", "Router", "Server"],
+        answer: 0,
+        topic: "programming"
+    },
+    {
+        q:"What type of network is this?",
+        options: ["Ring", "Bus", "Star", "Mesh"],
+        answer: 1,
+        img: "img/bus.png",
+        topic: "programming"
+    },
+    {
+        q:"In a star network",
+        options: ["Each device is connected to a switch or hub", "Each device connects to each other", "Each device is connected in a line", "Each device is connected to a terminal"],
+        answer: 0,
+        topic: "programming"
+    },
+    {
+        q:"What does LAN stand for?",
+        options: ["Local Art Network", "Localise Aerial Network", "Local Area Network", "Local Area News"],
+        answer: 2,
+        topic: "programming"
+    },
+    {
+        q:"A router's main function is to",
+        options: ["Forward data packets", "Absorb signals", "Repeat signals", "Absorb data packets"],
+        answer: 0,
+        topic: "programming"
+    },
+    {
+        q:"What type of network is this?",
+        options: ["Ring", "Bus", "Star", "Mesh"],
+        answer: 0,
+        img: "img/ring.png",
+        topic: "programming"
+    },
+    {
+        q:"The speed with which data is moved from one place to another on a network",
+        options: ["Bandwidth", "WAN", "MAN", "Gateway"],
+        answer: 0,
+        topic: "programming"
+    },
+    {
+        q:"A network device that directs a packet between networks toward its final destination",
+        options: ["Modem", "Router", "Broadband", "Switch"],
+        answer: 1,
+        topic: "programming"
+    },
+    {
+        q:"What numerical label uniquely identifies each device on a network using the Internet Protocol?",
+        options: ["IP Address", "Traceroute", "Firewall", "MAC Address"],
+        answer: 0,
+        topic: "programming"
+    },
+    {
+        q:"What unique hardware identifier is assigned to each device's network interface for communication on a local network?",
+        options: ["Serial Number", "IP Subnet", "MAC Address", "Network Gateway"],
+        answer: 2,
+        topic: "programming"
+    },
+    {
+        q:"Which security system controls network traffic based on set security rules?",
+        options: ["Router", "Firewall", "Switch", "Modem"],
+        answer: 1,
+        topic: "programming"
+    },
+    {
+        q:"Which device connects multiple devices on a local network and directs data to the correct destination?",
+        options: ["Router", "Firewall", "Switch", "Modem"],
+        answer: 2,
+        topic: "programming"
+    },
 ]
